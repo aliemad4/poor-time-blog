@@ -1,8 +1,8 @@
 @charset "utf-8";
-.post-content h1 {
+.post-text post-content post-content--padded h1 {
   text-align:right;
 }
-.post-content p {
+.post-text post-content post-content--padded p {
   text-align:center;
   font-size:16;
 
