@@ -1,9 +1,9 @@
 @charset "utf-8";
-.h1 {
+.post-content h1 {
   text-align:right;
 }
-.p {
-  text-align:right;
+.post-content p {
+  text-align:center;
   font-size:16;
 
 }
